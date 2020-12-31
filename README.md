@@ -1,1 +1,2 @@
-# Trash-the-habit-of-trash
+# MatterJSBoilerPlate
+MatterJSBoilerPlate
